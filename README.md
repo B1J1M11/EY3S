@@ -1,6 +1,6 @@
 # EY3S
 
-`EY3S`est un système de surveillance intelligent utilisant la vision par webcam pour détecter les intrusions et effectuer des reconnaissances faciales.
+`EY3S`est un système de surveillance utilisant la vision par webcam pour détecter les intrusions et effectuer des reconnaissances faciales.
 
 ## Fonctionnalités
 
